@@ -218,7 +218,7 @@ This project demonstrates:
 
 **Name:** Soumya Sworupa Dash
 
-**Repository URL:** https://github.com/<your-username>/preptrack-soumya
+**Repository URL:** [https://github.com/<your-username>/preptrack-soumya](https://github.com/soumyasworupadash/preptrack-soumya)
 
 ### My Contribution
 
